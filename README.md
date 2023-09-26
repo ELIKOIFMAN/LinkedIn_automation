@@ -1,4 +1,4 @@
---- Linkedin automation ---
+#Linkedin automation
 With the automation you will add people that work in roles of your interest.
 Use it in order to make new connections that will help you grow your network!
 
